@@ -19,6 +19,7 @@ public class No
         vInfo[0] = info;
         vPos[0] = posArq;
         tl = 1;
+
     }
 
     public int procurarPosicao(int info)
