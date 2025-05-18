@@ -1,4 +1,4 @@
-public class BTree
+public class BPlusTree
 {
     private No raiz;
 

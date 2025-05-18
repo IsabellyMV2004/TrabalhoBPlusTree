@@ -1,7 +1,7 @@
 public class Aplicacao
 {
     public static void main(String[] args) {
-        BTree b = new BTree();
+        BTree b = new BPlusTree();
 
 
         for(int i=1; i<=1000; i++)
